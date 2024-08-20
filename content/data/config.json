@@ -6,7 +6,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "ទំព័រដើម",
+                "label": "HOME",
                 "url": "/",
                 "underline": "hover",
                 "color": "primary"
