@@ -36,8 +36,10 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: |
-          ក្នុងនោះយើងត្រូវសិក្សាអំពីមូលដ្ឋានគ្រឹះនៃ Next.js
+        text: >+
+          ក្នុងនោះយើងត្រូវសិក្សាអំពីមូលដ្ឋានគ្រឹះនៃ Next.js ហើយនឹង ដំណើរការរបស់
+          ភាសា Next.js
+
         actions:
           - type: Button
             label: Read the Docs
