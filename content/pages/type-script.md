@@ -4,7 +4,7 @@ title: Type Script
 sections:
   - type: HeroSection
     title: ការសិក្សាអំពី Type Script
-    subtitle: ''
+    subtitle: Type Script ?
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
