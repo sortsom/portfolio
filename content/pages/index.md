@@ -6,9 +6,8 @@ sections:
     title: សួស្តីអ្នកទាំងអស់គ្នា
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      អ្វីដែលយើងត្រូវរៀនគឺសិក្សាអំពីមូលដ្ឋានគ្រឹះដើម្បីស្វែងយល់ពីដំណើរការរបស់កូដទៅតាមលំដាប់លំដោយ.
+      [Learn more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: ចាប់ផ្តើមជាមួយគ្នា
